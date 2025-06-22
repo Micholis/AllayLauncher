@@ -1,0 +1,15 @@
+{
+  "name": "allaylauncher",
+  "version": "1.0.0",
+  "description": "Open source launcher for minecraft java edition",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micholis",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^36.5.0"
+  }
+}
